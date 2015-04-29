@@ -7,4 +7,5 @@ Fluent Conference Notes and remarks
 ### Tutorials 
 - [Debugging Mobile](mobile_debugging.md)
 - [ Designing a Beautiful REST+JSON](designing_JSON_APIs.md)
-- [Gitting More Out of Git.md](Gitting_More_Out_of_Git.md)
+- [Gitting More Out of Git](Gitting_More_Out_of_Git.md)
+- [Transform into Your Team’s Web Security Guru](Transform-into-Your-Team’s-Web-Security-Guru.md)
