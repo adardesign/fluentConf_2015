@@ -14,3 +14,9 @@ Fluent Conference Notes and remarks
 ## Day 2
 ### Keynotes & Sessions
 - [the Speed of The Web](Keynotes-Paul-Irish.md)
+- [Re-evaluating Front-end Performance Best Practices](Re-evaluating-Front-end-Performance-Best-Practices.md)
+
+
+---
+
+Still working on the rest... 
